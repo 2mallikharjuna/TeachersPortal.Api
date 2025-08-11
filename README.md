@@ -10,7 +10,8 @@ A backend API for managing teachers, students, courses, and their relationships,
 - Assign courses to teachers and students
 - Seed default data for quick setup
 - Entity Framework Core for data access with code-first migrations
-- Separate Infrastructure project for DbContext and data access logic
+- Separate Infrastructure project for DbContext and data access logic.
+- Used Specification pattern and followed DDD
 - Swagger/OpenAPI documentation support
 
 ---
