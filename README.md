@@ -15,6 +15,8 @@ A backend API for managing teachers, students, courses, and their relationships,
 
 ---
 
+
+
 ## Technologies
 
 - .NET 8 / ASP.NET Core Web API
@@ -24,6 +26,10 @@ A backend API for managing teachers, students, courses, and their relationships,
 - Dependency Injection and Configuration using appsettings.json
 
 ---
+
+**Physical DB store**
+Run `Add-Migrations`
+Run `update-database`
 
 ## Getting Started
 
